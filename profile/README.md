@@ -28,11 +28,10 @@ Checkout our pitchdeck [HERE](https://www.canva.com/design/DAFixRjAOdc/6h-S10HAY
 
 - [Daniel Gooden](https://www.github.com/dangoodie)
 - [Sunny Junejo](https://github.com/sjunejo)
-- [Abdul Vajid](https://github.com/iamvajid)
-
 
 
 ## Acknowledgements
 
- - The beautiful pitchdeck and branding design by [Manoela Espinola](https://www.linkedin.com/in/manoela-egc/)
+ - Thanks to [Abdul Vajid](https://github.com/iamvajid) for helping out on the project at the Hackathon.
+ - The beautiful pitchdeck and branding design by [Manoela Espinola](https://www.linkedin.com/in/manoela-egc/).
 
